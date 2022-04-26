@@ -2,7 +2,7 @@
 
 Hi, I'm **Javier Cancela** and I'm about to get graduated as a **Software Engineer**.
 
-I'm currently coursing last year of Computers Science degree at [FIC in Universidade da Coruña](https://www.fic.udc.es/) in Galicia (Spain).
+I'm currently studying last year of Computers Science degree at [FIC in Universidade da Coruña](https://www.fic.udc.es/) in Galicia (Spain).
 
 ### TECH SKILLS
 
