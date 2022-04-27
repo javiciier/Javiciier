@@ -1,14 +1,13 @@
 # WHO AM I?
 
-Hi, I'm **Javier Cancela** and I'm about to get graduated as a **Software Engineer**.
+Hi, I'm **Javier Cancela** and I'm about to graduate as a **Software Engineer**.
 
 I'm currently studying last year of Computers Science degree at [FIC in Universidade da Coruña](https://www.fic.udc.es/) in Galicia (Spain).
 
-### TECH SKILLS
+### MY TECH SKILLS
 
-During my time at college I had to learn how to use many languages, tools and frameworks. These are the ones I feel comfortable working with:
+During my time at college I had to learn how to use many languages, tools and frameworks. These are some I feel confident with:
 
-* ### WHAT I KNOW
   * ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
   * ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -35,6 +34,7 @@ During my time at college I had to learn how to use many languages, tools and fr
 
 
 ### WHAT I WANT TO KNOW
+
   * ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
     ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
     ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
