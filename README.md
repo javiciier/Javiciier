@@ -1,12 +1,12 @@
 # WHO AM I?
 
-Hi, I'm **Javier Cancela** and I'm about to graduate as a **Software Engineer**.
+Hi, my name is  **Javier** and graduated as a **Software Engineer**.
 
 I studied a Computers Science degree at [FIC in Universidade da Coruña](https://www.fic.udc.es/) in Galicia (Spain) and I'm currently studying a Computer Science master called MUEI at the same place.
 
 ### MY TECH SKILLS
 
-During my time at college I had to learn how to use many languages, tools and frameworks. These are some I feel confident with:
+During my time at college I had to learn how to use many languages, tools and frameworks. These are some I feel confident with and used the most:
 
   * ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
@@ -43,6 +43,8 @@ During my time at college I had to learn how to use many languages, tools and fr
 ### WHAT I WANT TO KNOW
 
   * ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+  * ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
   
     
   * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -52,7 +54,10 @@ During my time at college I had to learn how to use many languages, tools and fr
     ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
     
   * ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+    ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+    ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+    
     
 ## CONTACT ME :)
 In case you are interested in knowing more about me you can contact me here:
